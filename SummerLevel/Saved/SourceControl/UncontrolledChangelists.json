@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/Blueprint/ParkourMovement.uasset",
+				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
 				"C:/Users/camil/SummerLevel/SummerLevel/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
