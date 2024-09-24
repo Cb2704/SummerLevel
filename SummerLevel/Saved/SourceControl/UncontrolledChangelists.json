@@ -5,9 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/Blueprint/ParkourMovement.uasset",
 				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/FirstPerson/Blueprints/BP_WallForRunning.uasset",
+				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/FirstPerson/Material/WallMaterial.uasset",
+				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset",
+				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/M1/TOMRYN3X1L7XA8NHY3URTS.uasset",
+				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/Blueprint/ParkourMovement.uasset",
 				"C:/Users/camil/SummerLevel/SummerLevel/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
