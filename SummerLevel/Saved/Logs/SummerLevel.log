@@ -2056,3 +2056,14 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.25-12.19.59:200][198]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
 [2024.09.25-12.19.59:211][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
 [2024.09.25-12.19.59:274][199]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.09.25-12.20.29:665][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.09.25-12.20.29:673][664]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/J0/GH9T9JE41PFQMQPFU0964X_Auto3
+[2024.09.25-12.20.29:673][664]LogSavePackage: Moving '../../../../../../Users/camil/SummerLevel/SummerLevel/Saved/GH9T9JE41PFQMQPFU0964X_Auto3D5172DA14AE21F39D2208098094683E6.tmp' to '../../../../../../Users/camil/SummerLevel/SummerLevel/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/J0/GH9T9JE41PFQMQPFU0964X_Auto3.uasset'
+[2024.09.25-12.20.29:678][664]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2024.09.25-12.20.29:678][664]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2024.09.25-12.20.29:678][664]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.09.25-12.20.29:798][664]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.09.25-12.20.29:798][664]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.09.25-12.20.29:834][664]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3
+[2024.09.25-12.20.29:835][664]LogSavePackage: Moving '../../../../../../Users/camil/SummerLevel/SummerLevel/Saved/BP_FirstPersonCharacter_Auto336B6CE4444E68EDB2779F490C09302EC.tmp' to '../../../../../../Users/camil/SummerLevel/SummerLevel/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto3.uasset'
+[2024.09.25-12.20.29:836][664]LogFileHelpers: Auto-saving content packages took 0.159
