@@ -10,10 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "Paper2D",
-			"Enabled": false
 		}
 	]
 }
