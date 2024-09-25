@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/camil/SummerLevel/SummerLevel/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/camil/SummerLevel/SummerLevel/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/camil/SummerLevel/SummerLevel/Content/Enemy/AI.uasset",
+				"C:/Users/camil/SummerLevel/SummerLevel/Content/Enemy/BP_ChasingEnemy.uasset",
+				"C:/Users/camil/SummerLevel/SummerLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/camil/SummerLevel/SummerLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/81/U5GAR8KEGN9YQ0HC2MXAPM.uasset",
+				"C:/Users/camil/SummerLevel/SummerLevel/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/90/7BQCFCXBQ9FITODD8KIJYU.uasset",
+				"C:/Users/camil/SummerLevel/SummerLevel/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/camil/SummerLevel/SummerLevel/Content/FastMovement/Blueprints/Player/BP_PlayerMovement.uasset"
 			]
 		}
 	]
