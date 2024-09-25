@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/Enemy/BP_ShootingEnemy.uasset",
+				"C:/Users/giaco_sy56s3y/Desktop/Github_Documents/SummerLevel/SummerLevel/Content/FastMovement/Blueprints/Player/BP_Player.uasset",
 				"C:/Users/camil/SummerLevel/SummerLevel/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/camil/SummerLevel/SummerLevel/Content/Enemy/AI.uasset",
 				"C:/Users/camil/SummerLevel/SummerLevel/Content/Enemy/BP_ChasingEnemy.uasset",
